@@ -1,3 +1,6 @@
+body{
+  backround-color : #A9CAEA;
+}
 .top_text{
   text-align : center;
   font-size : 80px;
@@ -12,5 +15,5 @@
   font-size : 30px;
 }
 .discord{
-  href = "discico.png";
+   url'discico.png';
 }
