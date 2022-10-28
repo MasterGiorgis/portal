@@ -1,0 +1,19 @@
+.top_text{
+  text-align : center;
+  font-size : 80px;
+}
+.description{
+  text-align : center;
+  font-size : 15px;
+}
+.links{
+  text-align : center;
+  color : #A13FE2;
+  font-size : 30px;
+}
+button{
+  height: 55px;
+  width: 170px;
+  border: 10px black;
+  transition: all 0.3s ease;
+}
