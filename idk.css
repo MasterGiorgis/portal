@@ -20,7 +20,10 @@
 
 .disc {
     background: url('discico.png');
-    height: 48px;
+    height: 48px;{
+￼  margin: 0;
+￼  padding: 0;
+￼  box-sizing: b
     width: 48px;
     display: block;
     text-align : center;
@@ -73,3 +76,4 @@ body {
   margin: 0px;
   padding: 0px;
 }
+
