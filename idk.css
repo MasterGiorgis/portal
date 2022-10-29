@@ -11,9 +11,31 @@
   color : #A13FE2;
   font-size : 30px;
 }
-.icon {
+
+.disc {
     background: url('discico.png');
-    height: 20px;
-    width: 20px;
+    height: 48px;
+    width: 48px;
     display: block;
+    text-align : center;
+    display: inline-block;
+    width: 1,8%;
+}
+.steam {
+    background: url('steamico.png');
+    height: 48px;
+    width: 48px;
+    display: block;
+    text-align : center;
+    display: inline-block;
+    width: 1,8%;
+}
+.vimm {
+    background: url('vimmbutton.png');
+    height: 48px;
+    width: 48px;
+    display: block;
+    text-align : center;
+    display: inline-block;
+    width: 2;
 }
