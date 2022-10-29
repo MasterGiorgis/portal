@@ -39,3 +39,8 @@
     display: inline-block;
     width: 2;
 }
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
